@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "158136008265",
+    "firebase_url": "https://snipchatappavc-default-rtdb.firebaseio.com",
+    "project_id": "snipchatappavc",
+    "storage_bucket": "snipchatappavc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:158136008265:android:298334f24e34da6c8cc998",
+        "android_client_info": {
+          "package_name": "c2222648live.tees.ac.uk.snipchatappavc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "158136008265-trn49mrn7v1j20bsfju39rvlhmuscdrn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "c2222648live.tees.ac.uk.snipchatappavc",
+            "certificate_hash": "d6d9dfdd0f9d5264b799af2d0829c060ce8500ac"
+          }
+        },
+        {
+          "client_id": "158136008265-ki6pvah5qti08009ee0ghk0h6p5nudjt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAxyqnXpYHMvgiRYkLPSJbUDOvAkuhoQh4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "158136008265-ki6pvah5qti08009ee0ghk0h6p5nudjt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

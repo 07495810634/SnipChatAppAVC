@@ -95,6 +95,7 @@ public class MyLoginActivity extends AppCompatActivity {
                 if (task.isSuccessful())
                 {
                     Intent intent = new Intent(MyLoginActivity.this,MainActivity.class);
+                    startActivity(intent);
                     Toast.makeText(MyLoginActivity.this,"Sign in is successful", Toast.LENGTH_SHORT).show();
                 }
                 else

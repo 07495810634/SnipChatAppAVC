@@ -24,35 +24,40 @@
         </activity>
         <activity
             android:name=".ProfileActivity"
-            android:exported="false">
+            android:exported="false"
+            android:theme="@style/MainTheme.SnipChatAppAVC">
             <meta-data
                 android:name="android.app.lib_name"
                 android:value="" />
         </activity>
         <activity
             android:name=".ForgetActivity"
-            android:exported="false">
+            android:exported="false"
+            android:theme="@style/MainTheme.SnipChatAppAVC">
             <meta-data
                 android:name="android.app.lib_name"
                 android:value="" />
         </activity>
         <activity
             android:name=".SignUpActivity"
-            android:exported="false">
+            android:exported="false"
+            android:theme="@style/MainTheme.SnipChatAppAVC">
             <meta-data
                 android:name="android.app.lib_name"
                 android:value="" />
         </activity>
         <activity
             android:name=".MainActivity"
-            android:exported="false">
+            android:exported="false"
+            android:theme="@style/MainTheme.SnipChatAppAVC">
             <meta-data
                 android:name="android.app.lib_name"
                 android:value="" />
         </activity>
         <activity
             android:name=".MyLoginActivity"
-            android:exported="true">
+            android:exported="true"
+            android:theme="@style/MainTheme.SnipChatAppAVC">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 

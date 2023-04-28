@@ -76,7 +76,7 @@
             app:backgroundTint="#F44336"
             app:hoveredFocusedTranslationZ="6dp"
             app:rippleColor="#EFE6E6"
-            app:srcCompat="@drawable/baseline_send_2" />
+            app:srcCompat="@drawable/ic_baseline_send_24" />
 
     </LinearLayout>
 
